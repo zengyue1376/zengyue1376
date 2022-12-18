@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abikehaozhu
+- 👋 Hi, I’m @Abikehaozhu from BUAA
 - 👀 I’m interested in interesting things
 - 🌱 I’m currently learning pytorch and some basic coding
 - 💞️ I’m looking to collaborate on ...

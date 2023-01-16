@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abikehaozhu
-- 👀 I’m interested in interesting things
+- 👀 I’m interesting in learning SLAM
 
 
 <!---

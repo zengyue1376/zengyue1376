@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abikehaozhu
-- 👀 I’m interesting in learning SLAM
+- 👀 I’m interesting in learning Medical Image
 
 
 <!---

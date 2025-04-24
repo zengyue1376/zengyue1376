@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZengYue1376
+- 👋 Hi, I’m @zengyue1376
 - 👀 E-mail address zengyue1376@buaa.edu.cn
 
 

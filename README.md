@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Abikehaozhu
-- 👀 I’m interesting in learning Digital Image
+- 👋 Hi, I’m @ZengYue1376
+- 👀 E-mail address zengyue1376@buaa.edu.cn
 
 
 <!---
